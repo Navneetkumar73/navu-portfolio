@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(black,rgb(79, 159, 161));
+  }
+  img{
+    height: 350px;
+    width: 350px;
+    transform: rotate(270deg);
+  }
+  .info{
+    text-align: center;
+    font-family: sans-serif
+    ;
+    height:100%;
+    width: 100%;
+  }
+  .skill{
+    font-family: sans-serif;
+    text-align: start;
+    padding: 10px;
+    margin: 10px;
+  font-size: x-large;
+  /* background-color: ; */
+  }
